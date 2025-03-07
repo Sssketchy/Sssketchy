@@ -23,7 +23,7 @@
 - 🔭 Currently working on **ServiceGenie**  
 - 🌱 Learning **Flutter, Firebase, and Data Science**  
 - 🤝 Open to collaborations on **Flutter & AI projects**  
-- 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/yashwanth-vignesh-k-264033344/))  
+- 📫 Reach me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/yashwanth-vignesh-k-264033344/])  
 
 ---
 
