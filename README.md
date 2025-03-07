@@ -29,7 +29,7 @@
 ## 🏅 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sssketchy&theme=radical&column=4&margin-w=25&margin-h=25&no-bg=true&no-frame=true" alt="GitHub Achievements" width="50%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sssketchy&theme=radical&column=8&margin-w=25&margin-h=25&no-bg=true&no-frame=true" alt="GitHub Achievements" width="50%"/>
 </p>  
 
 ---
