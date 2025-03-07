@@ -1,11 +1,9 @@
-z#Z# Hi there! 👋 I'm Sssketchy  
+## Hi there! 👋 I'm Sssketchy  
 
 🚀 **Aspiring Developer | Flutter Enthusiast | AI & IoT Explorer**  
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnViemt4MGVyaXRldzlrNjFpanB2d3o4MXkxd21iMDV5dDBlbnRqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px"/>
-  
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ3N3k1Mjd4aDM3eXExZHBoMHM4Y2JmOWp1cGtsbjR6MmRqajd3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1y0zSu5hYE1pJSdqmI/giphy.gif" width="400px"/>
 </div>
 
 ---
