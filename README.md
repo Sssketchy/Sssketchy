@@ -29,14 +29,7 @@
 ## 🏅 GitHub Achievements  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Public%20Sponsor-%F0%9F%8F%86-orange"/>
-  <img src="https://img.shields.io/badge/Starstruck-%E2%AD%90-yellow"/>
-  <img src="https://img.shields.io/badge/Forker-%F0%9F%93%8C-blue"/>
-  <img src="https://img.shields.io/badge/Pull%20Shark-%F0%9F%93%A2-purple"/>
-  <img src="https://img.shields.io/badge/Galaxy%20Brain-%F0%9F%92%AC-green"/>
-  <img src="https://img.shields.io/badge/Bug%20Hunter-%F0%9F%90%9B-red"/>
-  <img src="https://img.shields.io/badge/Arctic%20Vault-%E2%9D%84-lightblue"/>
-  <img src="https://img.shields.io/badge/Community%20Member-%F0%9F%8C%8D-blueviolet"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Sssketchy&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Achievements"/>
 </p>  
 
 ---
