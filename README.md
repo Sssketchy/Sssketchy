@@ -28,9 +28,9 @@
 
 ## 🏅 GitHub Achievements  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sssketchy&theme=radical&column=4&margin-w=50&margin-h=50&no-bg=true&no-frame=true" alt="GitHub Achievements" width="50%"/>
-</p>  
+<div align="center" style="border: 2px solid #FF4500; padding: 20px; display: inline-block;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sssketchy&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Achievements" width="100%"/>
+</div>
 
 ---
 
@@ -43,16 +43,6 @@
 
 ---
 
-## 🌈 RGB Glowing Effect  
-
-GitHub doesn’t support CSS animations directly, but you can achieve a **continuous RGB glowing border effect** using an SVG animation.  
-
-Here’s a hosted **RGB glowing frame** that you can embed:  
-
-![Glowing Border](https://raw.githubusercontent.com/Sssketchy/your-repo/main/glowing-border.svg)
-
----
-
 ## 💡 About Me  
 - 🚀 Building **ServiceGenie**  
 - 🌱 Learning **Flutter, Firebase, and Data Science**  
@@ -62,3 +52,10 @@ Here’s a hosted **RGB glowing frame** that you can embed:
 - 📫 Connect on **[LinkedIn](https://www.linkedin.com/in/yashwanth-vignesh-k-264033344/)**  
 
 ---
+
+### 🎨 **Final Touch**
+- **Achievement Borders Added** ✅  
+- **RGB Glow Removed** ✅  
+- **Clean and Professional Look** ✅  
+
+🚀 **Now your GitHub profile looks sleek and structured!** Let me know if you need any more tweaks! 😃🔥
