@@ -52,10 +52,3 @@
 - 📫 Connect on **[LinkedIn](https://www.linkedin.com/in/yashwanth-vignesh-k-264033344/)**  
 
 ---
-
-### 🎨 **Final Touch**
-- **Bigger Technology Icons (80px)** ✅  
-- **Neat and Compact Design** ✅  
-- **Borders & Clean Layout** ✅  
-
-🚀 **Your GitHub profile now looks bold and professional!** Let me know if you need more refinements. 😃🔥
