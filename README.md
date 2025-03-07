@@ -13,7 +13,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="80" height="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" width="80" height="80"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="80" height="80"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_black.png" alt="LeetCode" width="80" height="80"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="80" height="80"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="80" height="80"/>
 </p>  
 
