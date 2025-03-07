@@ -47,9 +47,5 @@
 
 ---
 
-## 🎵 Now Playing  
-![Spotify](https://novatorem-username.vercel.app/api/spotify)
 
----
 
-🔥 **Now your GitHub profile is visually stunning!** Let me know if you want any tweaks! 🚀😎
