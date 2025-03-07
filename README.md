@@ -3,7 +3,7 @@
 🚀 **Aspiring Developer | Flutter Enthusiast | AI & IoT Explorer**  
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NkNDJsbXd3bXV4Y3IxdWZsMnhnbHNwY2E1YXFwNTJlbTJmdHR1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7hJZcKzjIufeOmqKSj/giphy.gif" width="400px"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnViemt4MGVyaXRldzlrNjFpanB2d3o4MXkxd21iMDV5dDBlbnRqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px"/>
 </div>
 
 ---
