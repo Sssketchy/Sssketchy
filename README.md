@@ -21,8 +21,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sssketchy&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
-  <img src="https://streak-stats.demolab.com/?user=Sssketchy&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sssketchy&theme=radical" alt="GitHub Streak"/>
 </p>  
+
 
 ### 💡 About Me  
 - 🔭 Currently working on **ServiceGenie**  
