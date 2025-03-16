@@ -1,6 +1,6 @@
 ## Hi there! 👋 I'm Sssketchy  
 
-🚀 **Aspiring Developer | Flutter Enthusiast | AI & IoT Explorer**  
+🚀 **Aspiring Developer | Flutter Enthusiast | AI & ML Explorer**  
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnViemt4MGVyaXRldzlrNjFpanB2d3o4MXkxd21iMDV5dDBlbnRqeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400px"/>
