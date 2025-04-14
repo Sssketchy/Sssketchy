@@ -24,8 +24,9 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="80" height="80" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="80" height="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_logo_2021.svg" alt="Canva" width="80" height="80" />
-</p>  
+  <img src="https://1000logos.net/wp-content/uploads/2021/10/Canva-Logo.png" alt="Canva" width="80" height="80" />
+</p>
+
 
 ---
 
