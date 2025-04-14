@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Sssketchy  
+![image](https://github.com/user-attachments/assets/5cd6ea40-64c6-4c14-a2bc-bba64bc87d21)## Hi there! 👋 I'm Sssketchy  
 
 🚀 **Aspiring Developer | Flutter Enthusiast | AI & ML Explorer**  
 
@@ -24,7 +24,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="80" height="80" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="80" height="80" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="Figma" width="80" height="80" />
-  <img src="https://media.licdn.com/dms/image/v2/D5622AQH9Rs_5ykwj5A/feedshare-shrink_800/feedshare-shrink_800/0/1713529918776?e=2147483647&v=beta&t=EZaks4cv20yRmbI8fMorHrdmTffYaTTi7H4ROUmj2WI" alt="Canva" width="80" height="80" />
+  <img src="https://public.canva.site/logo/media/dfb96cc174513093cd6ed61489ccb750.svg" alt="Canva" width="80" height="80" />
 </p>
 
 
