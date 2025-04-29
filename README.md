@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5cd6ea40-64c6-4c14-a2bc-bba64bc87d21)## Hi there! 👋 I'm Sssketchy  
+## Hi there! 👋 I'm Sssketchy  
 
 🚀 **Aspiring Developer | Flutter Enthusiast | AI & ML Explorer**  
 
